@@ -1,0 +1,49 @@
+---
+title: "Book Recommendations"
+format: html
+---
+
+## 📚 Books I've Enjoyed
+
+Here are some books I’ve read and would recommend to others. Each of these left a lasting impression on me, either for their insights, storytelling, or the lessons they offered.
+
+### 1. *Atomic Habits* by James Clear  
+<img src="./images/atomic_habits.jpg" alt="Atomic Habits book cover" class="book-cover"/>
+
+**Genre**: Self-Development  
+**Why I Recommend It**:  
+This book breaks down how tiny changes can lead to remarkable results. It helped me build better routines and understand the power of systems over goals.
+
+> 💬 _"You do not rise to the level of your goals. You fall to the level of your systems."_
+
+---
+
+### 2. *Educated* by Tara Westover  
+<img src="./images/educated.jpg" alt="Educated book cover" class="book-cover"/>
+
+**Genre**: Memoir  
+**Why I Recommend It**:  
+This memoir tells the inspiring story of a woman who overcame a difficult upbringing to pursue education. It’s powerful, emotional, and thought-provoking.
+
+> 💬 _"You can love someone and still choose to say goodbye to them. You can miss a person every day, and still be glad that they are no longer in your life."_
+
+---
+
+### 3. *Justice: What Is the Right Thing to Do?* by Michael Sandel
+
+<img src="./images/justice.jpg" alt="Justice book cover" class="book-cover"/>
+
+**Genre**: Philosophy / Ethics  
+**Why I Recommend It**:  
+This book offers a thought-provoking exploration of morality, justice, and ethics through real-world examples and philosophical frameworks. It challenged how I think about fairness and public responsibility.
+
+> 💬 _"Justice is not only about the right way to distribute things. It is also about the right way to value things."_
+
+---
+
+## 💡 More to Come
+
+I’m always reading and discovering new favorites. I’ll continue updating this list with more recommendations in the future.
+
+If you have any recommendations for me, feel free to reach out!
+

@@ -1,11 +1,23 @@
 ---
-title: "temp"
+format:
+  html:
+    toc: false
+    page-layout: full
 ---
 
-This is a Quarto website.
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 👋 Hello, I'm Xie Zhi Peng
 
-```{r}
-1 + 1
-```
+Welcome to my personal website! I'm a Student at Singapore Institute of Technology with a passion for technology, particularly in the field of artificial intelligence, where I enjoy exploring how intelligent systems learn, adapt, and solve real-world problems.
+
+Here, you'll find my latest projects, blog posts, and resources that I hope you'll find useful or inspiring.
+
+Feel free to explore and connect!
+
+---
+
+### 📬 Get in Touch
+
+- 📧 Email: <danielxie27@gmail.com>
+- 💻 [GitHub](https://github.com/Danielx927)

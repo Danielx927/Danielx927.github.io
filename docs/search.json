@@ -4,6 +4,118 @@
     "href": "index.html",
     "title": "temp",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hello-im-xie-zhi-peng",
+    "href": "index.html#hello-im-xie-zhi-peng",
+    "title": "",
+    "section": "👋 Hello, I’m Xie Zhi Peng",
+    "text": "👋 Hello, I’m Xie Zhi Peng\nWelcome to my personal website! I’m a Student at Singapore Institute of Technology with a passion for technology, particularly in the field of artificial intelligence, where I enjoy exploring how intelligent systems learn, adapt, and solve real-world problems.\nHere, you’ll find my latest projects, blog posts, and resources that I hope you’ll find useful or inspiring.\nFeel free to explore and connect!\n\n\n📬 Get in Touch\n\n📧 Email: danielxie27@gmail.com\n💻 GitHub"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "In this reflection, I share my experience using a Generative AI (GenAI) tool to assist in completing this assessment. The tool I used was ChatGPT by OpenAI."
+  },
+  {
+    "objectID": "reflection.html#introduction",
+    "href": "reflection.html#introduction",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "In this reflection, I share my experience using a Generative AI (GenAI) tool to assist in completing this assessment. The tool I used was ChatGPT by OpenAI."
+  },
+  {
+    "objectID": "reflection.html#why-i-chose-chatgpt",
+    "href": "reflection.html#why-i-chose-chatgpt",
+    "title": "Reflection on the use of GenAI",
+    "section": "Why I Chose ChatGPT",
+    "text": "Why I Chose ChatGPT\nI chose ChatGPT because of its ability to understand natural language, provide quick responses, and assist in a wide range of tasks—from brainstorming ideas to reviewing written content. Its accessibility and ease of use made it an ideal tool for this assignment."
+  },
+  {
+    "objectID": "reflection.html#how-chatgpt-helped-me",
+    "href": "reflection.html#how-chatgpt-helped-me",
+    "title": "Reflection on the use of GenAI",
+    "section": "How ChatGPT Helped Me",
+    "text": "How ChatGPT Helped Me\nChatGPT was helpful in the following ways:\n\nClarifying Requirements: I used it to interpret the instructions of the assignment, especially when I was unsure how to structure pages or add specific features like spacing or media embedding in my index.qmd.\nGenerating Content: It helped me draft sections such as this reflection, and the homepage introduction. For example, I asked for a sample self-introduction and received a well-written template.\nTroubleshooting Markdown/Quarto Syntax: When I encountered formatting issues (like adding spacing or inserting images), ChatGPT offered instant solutions and examples."
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits of Using GenAI",
+    "text": "Benefits of Using GenAI\n\nEfficiency: It saved me time by providing direct answers and content suggestions.\nCreativity Support: It gave me ideas when I wasn’t sure how to begin writing certain sections.\nLearning Aid: I learned a lot about Quarto features through interaction with the tool."
+  },
+  {
+    "objectID": "reflection.html#challenges-faced",
+    "href": "reflection.html#challenges-faced",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges Faced",
+    "text": "Challenges Faced\n\nOver-reliance: It’s easy to lean too much on the AI’s suggestions and not think critically.\nSpecificity: Sometimes the responses were too generic, and I had to refine my question to get what I needed.\nFormatting Limitations: While it’s good with Markdown and Quarto, it’s still up to me to test and preview everything to ensure it looks right."
+  },
+  {
+    "objectID": "reflection.html#looking-ahead",
+    "href": "reflection.html#looking-ahead",
+    "title": "Reflection on the use of GenAI",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nI see GenAI tools playing a big role in my future studies and career. They can assist in writing, coding, generating documentation, and even learning new skills more interactively. However, I also understand the importance of using them ethically and thoughtfully."
+  },
+  {
+    "objectID": "reflection.html#final-thoughts",
+    "href": "reflection.html#final-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nOverall, using ChatGPT as a GenAI assistant was a positive experience. It boosted my productivity and confidence in completing this assignment. I believe that with responsible use, GenAI can be a powerful partner in both education and the workplace."
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Book Recommendations",
+    "section": "",
+    "text": "Here are some books I’ve read and would recommend to others. Each of these left a lasting impression on me, either for their insights, storytelling, or the lessons they offered.\n\n\n\nGenre: Self-Development\nWhy I Recommend It:\nThis book breaks down how tiny changes can lead to remarkable results. It helped me build better routines and understand the power of systems over goals.\n\n💬 “You do not rise to the level of your goals. You fall to the level of your systems.”\n\n\n\n\n\n\nGenre: Memoir\nWhy I Recommend It:\nThis memoir tells the inspiring story of a woman who overcame a difficult upbringing to pursue education. It’s powerful, emotional, and thought-provoking.\n\n💬 “You can love someone and still choose to say goodbye to them. You can miss a person every day, and still be glad that they are no longer in your life.”\n\n\n\n\n\n\nGenre: Philosophy / Ethics\nWhy I Recommend It:\nThis book offers a thought-provoking exploration of morality, justice, and ethics through real-world examples and philosophical frameworks. It challenged how I think about fairness and public responsibility.\n\n💬 “Justice is not only about the right way to distribute things. It is also about the right way to value things.”"
+  },
+  {
+    "objectID": "books.html#books-ive-enjoyed",
+    "href": "books.html#books-ive-enjoyed",
+    "title": "Book Recommendations",
+    "section": "",
+    "text": "Here are some books I’ve read and would recommend to others. Each of these left a lasting impression on me, either for their insights, storytelling, or the lessons they offered.\n\n\n\nGenre: Self-Development\nWhy I Recommend It:\nThis book breaks down how tiny changes can lead to remarkable results. It helped me build better routines and understand the power of systems over goals.\n\n💬 “You do not rise to the level of your goals. You fall to the level of your systems.”\n\n\n\n\n\n\nGenre: Memoir\nWhy I Recommend It:\nThis memoir tells the inspiring story of a woman who overcame a difficult upbringing to pursue education. It’s powerful, emotional, and thought-provoking.\n\n💬 “You can love someone and still choose to say goodbye to them. You can miss a person every day, and still be glad that they are no longer in your life.”\n\n\n\n\n\n\nGenre: Philosophy / Ethics\nWhy I Recommend It:\nThis book offers a thought-provoking exploration of morality, justice, and ethics through real-world examples and philosophical frameworks. It challenged how I think about fairness and public responsibility.\n\n💬 “Justice is not only about the right way to distribute things. It is also about the right way to value things.”"
+  },
+  {
+    "objectID": "books.html#more-to-come",
+    "href": "books.html#more-to-come",
+    "title": "Book Recommendations",
+    "section": "💡 More to Come",
+    "text": "💡 More to Come\nI’m always reading and discovering new favorites. I’ll continue updating this list with more recommendations in the future.\nIf you have any recommendations for me, feel free to reach out!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Programming Language: Java\nDescription:\nThe game I developed with my project team, Whac-A-Mole, is built using Java in the Eclipse IDE, leveraging the libGDX game engine. This game combines classic arcade-style gameplay with an educational twist—players are challenged to solve math equations by “whacking” the mole that displays the correct answer. As players progress, the difficulty of the equations increases, promoting engagement and reinforcing arithmetic skills in a fun and interactive way. This project aims to make learning math more enjoyable, especially for younger audiences, while demonstrating how games can be both entertaining and educational.\nFeatures: - Progressive Difficulty - Support for addition, subtraction, multiplication, and division\n👉 GitHub Repo\n\n\n\n\nProgramming Languages: HTML，CSS, Javascript, PHP, MySQL\nDescription:\nDeveloped a full-stack e-commerce site where users can browse and purchase custom posters. The application includes product listings, user authentication, cart functionality, and order storage in a database.\nHighlights: - Frontend with responsive design\n- Backend with session-based login\n- Secure form handling and MySQL integration\n👉 Live Demo"
+  },
+  {
+    "objectID": "projects.html#school-projects",
+    "href": "projects.html#school-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Programming Language: Java\nDescription:\nThe game I developed with my project team, Whac-A-Mole, is built using Java in the Eclipse IDE, leveraging the libGDX game engine. This game combines classic arcade-style gameplay with an educational twist—players are challenged to solve math equations by “whacking” the mole that displays the correct answer. As players progress, the difficulty of the equations increases, promoting engagement and reinforcing arithmetic skills in a fun and interactive way. This project aims to make learning math more enjoyable, especially for younger audiences, while demonstrating how games can be both entertaining and educational.\nFeatures: - Progressive Difficulty - Support for addition, subtraction, multiplication, and division\n👉 GitHub Repo\n\n\n\n\nProgramming Languages: HTML，CSS, Javascript, PHP, MySQL\nDescription:\nDeveloped a full-stack e-commerce site where users can browse and purchase custom posters. The application includes product listings, user authentication, cart functionality, and order storage in a database.\nHighlights: - Frontend with responsive design\n- Backend with session-based login\n- Secure form handling and MySQL integration\n👉 Live Demo"
+  },
+  {
+    "objectID": "docs/projects.html",
+    "href": "docs/projects.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

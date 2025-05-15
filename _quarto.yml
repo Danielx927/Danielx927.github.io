@@ -3,20 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "temp"
+  favicon: ./images/user_favicon.png
   navbar:
+    logo: ./images/user_favicon.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: books.qmd
+        text: Books
+      - href: reflection.qmd
+        text: Reflection on GenAI
 
 format:
   html:
     theme:
-      - cosmo
+      - darkly
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 

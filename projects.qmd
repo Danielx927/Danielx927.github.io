@@ -1,0 +1,35 @@
+---
+title: "Projects"
+---
+
+## 🎓 School Projects
+
+### 🧮 Whac-A-MOLE  
+
+**Programming Language**: Java  
+
+**Description**:  
+The game I developed with my project team, Whac-A-Mole, is built using Java in the Eclipse IDE, leveraging the libGDX game engine. This game combines classic arcade-style gameplay with an educational twist—players are challenged to solve math equations by "whacking" the mole that displays the correct answer. As players progress, the difficulty of the equations increases, promoting engagement and reinforcing arithmetic skills in a fun and interactive way. This project aims to make learning math more enjoyable, especially for younger audiences, while demonstrating how games can be both entertaining and educational.
+
+**Features**:
+- Progressive Difficulty
+- Support for addition, subtraction, multiplication, and division
+
+👉 [GitHub Repo](https://github.com/Danielx927/INF1009-OOP-Project)
+
+---
+
+### 🛒 E-commerce Poster Web Application
+**Programming Languages**: HTML，CSS, Javascript, PHP, MySQL 
+
+**Description**:  
+Developed a full-stack e-commerce site where users can browse and purchase custom posters. The application includes product listings, user authentication, cart functionality, and order storage in a database.  
+
+**Highlights**:
+- Frontend with responsive design  
+- Backend with session-based login  
+- Secure form handling and MySQL integration  
+
+👉 [Live Demo](http://35.212.241.11)
+
+---
